@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Stylish Portfolio v5.0.4 (https://startbootstrap.com/template-overviews/stylish-portfolio)
+ * Start Bootstrap - Stylish Portfolio v5.0.4 (https://nthakur20.github.io/personal-website/)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/master/LICENSE)
  */
@@ -93,8 +93,8 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(14, 11, 11, 0.45)), to(rgba(14, 11, 11, 0.45))), url("../img/bg-4.jpg");
-  background: linear-gradient(rgba(14, 11, 11, 0.45), rgba(14, 11, 11, 0.45)), url("../img/bg-4.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(14, 11, 11, 0.45)), to(rgba(14, 11, 11, 0.45))), url("../img/bg.jpg");
+  background: linear-gradient(rgba(14, 11, 11, 0.45), rgba(14, 11, 11, 0.45)), url("../img/bg.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -207,8 +207,8 @@ h6 {
 .service-icon {
   background-color: #fff;
   color: #1D809F;
-  height: 3rem;
-  width: 3rem;
+  height: 7rem;
+  width: 7rem;
   display: block;
   line-height: 7.5rem;
   font-size: 2.25rem;
@@ -218,8 +218,8 @@ h6 {
 
 .callout {
   padding: 12rem 0;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(0, 0, 0, 0.5))), url("../img/bg-callout4.jpg");
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0.5) 100%), url("../img/bg-callout4.jpg");
+  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(0, 0, 0, 0.5))), url("../img/bg-callout.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0.5) 100%), url("../img/bg-callout.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;

@@ -3,7 +3,9 @@
     "name": "startbootstrap-stylish-portfolio",
     "version": "5.0.4",
     "scripts": {
-        "start": "gulp watch"
+        "start": "gulp watch",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
     },
     "description": "A stylish portfolio HTML template built with Bootstrap",
     "keywords": [
@@ -14,7 +16,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/stylish-portfolio",
+    "homepage": "https://nthakur20.github.io/personal-website/",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
         "email": "feedback@startbootstrap.com"
@@ -31,6 +33,7 @@
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.8.1",
         "bootstrap": "4.3.1",
+        "gh-pages": "^2.0.1",
         "jquery": "3.3.1",
         "jquery.easing": "^1.4.1",
         "simple-line-icons": "^2.4.1"
