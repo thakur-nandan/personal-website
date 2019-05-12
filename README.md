@@ -4,7 +4,7 @@
 [![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio)
 [![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-stylish-portfolio?type=dev)
 
-# personal-website
+# Nandan Thakur - Personal Website
 
 Personal Website | Nandan Thakur | Copyright © nandan.xyz, 2019
 
