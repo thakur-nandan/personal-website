@@ -6,7 +6,7 @@
 
 # Nandan Thakur - Personal Website
 
-Personal Website | Nandan Thakur | Copyright © nandan.xyz, 2019
+Personal Website | Nandan Thakur | Copyright © nthakur.xyz, 2020
 
 **[View Live Preview](https://nthakur.xyz)**
 
