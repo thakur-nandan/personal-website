@@ -8,7 +8,7 @@
 
 Personal Website | Nandan Thakur | Copyright © nandan.xyz, 2019
 
-**[View Live Preview](https://nandan.xyz)**
+**[View Live Preview](https://nthakur.xyz)**
 
 
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
