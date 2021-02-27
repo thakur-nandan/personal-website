@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Stylish Portfolio v5.0.4 (https://nthakur.xyz)
- * Copyright 2013-2020 Start Bootstrap
+ * Copyright 2013-2021 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/master/LICENSE)
  */
 
@@ -132,8 +132,8 @@ h6 {
 
 .sidebar-nav {
   position: absolute;
-  top: 0;
-  width: 250px;
+  right: 0;
+  height: 250px;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -374,4 +374,24 @@ a:hover, a:focus, a:active {
 
 .text-secondary {
   color: #ecb807 !important;
+}
+
+/* Create two equal columns that floats next to each other */
+.column1 {
+  float: left;
+  width: 50%;
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+  .column {
+    width: 100%;
+    column-count: 2;
+  }
 }
