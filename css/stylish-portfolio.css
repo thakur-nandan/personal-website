@@ -375,3 +375,9 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+
+textarea {
+  overflow-y: scroll;
+  height: 500px;
+  width: 100px;
+}
