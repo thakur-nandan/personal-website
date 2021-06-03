@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Stylish Portfolio v5.0.4 (https://nthakur.xyz)
+ * Start Bootstrap - Stylish Portfolio v5.0.4 (https://nandan-thakur.com)
  * Copyright 2013-2021 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/blob/master/LICENSE)
  */

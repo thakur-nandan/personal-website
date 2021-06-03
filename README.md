@@ -6,9 +6,9 @@
 
 # Nandan Thakur - Personal Website
 
-Personal Website | Nandan Thakur | Copyright © nthakur.xyz, 2020
+Personal Website | Nandan Thakur | Copyright © nandan-thakur.com, 2020
 
-**[View Live Preview](https://nthakur.xyz)**
+**[View Live Preview](https://nandan-thakur.com)**
 
 
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
